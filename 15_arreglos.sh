@@ -2,9 +2,10 @@
 #Programa para ejemplificar el uso de arreglos
 # Autor Jmatias
 
-arregloNumeros=(1 2 3 4 5 6)
-arregloCadenas=(Marco, Antonio, Pedro, Susana)
-arregloRangos=({A..Z} {1..100})
+#Es posible escribir arreglos de las siguientes maneras
+arregloNumeros=(1 2 3 4 5 6) #Enteros 
+arregloCadenas=(Marco, Antonio, Pedro, Susana) #strings
+arregloRangos=({A..Z} {1..100}) #Rangos
 pos=3
 #Imprimir todos los valores
 echo "Arreglo de Números: ${arregloNumeros[*]}"

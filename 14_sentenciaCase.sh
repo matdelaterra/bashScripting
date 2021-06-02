@@ -1,5 +1,5 @@
 # ! bin/bash
-#programa para ejemplificar el uso de expresiones condicionales 
+#programa para ejemplificar el uso de la sentencia case utilizando read
 
 opcion=""
 

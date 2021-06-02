@@ -4,7 +4,7 @@
 
 numA=10
 numB=4
-
+#OPERADORES ARITMETICOS
 echo "Operadores aritmeticos"
 echo "Numeros: A=$numA y B=$numB"
 echo "Sumar A+B=" $((numA + numB))
@@ -14,7 +14,7 @@ echo "Dividir A/B=" $((numA / numB))
 echo "Modulo A%B=" $((numA % numB))
 
 
-
+#OPERADORES RELACIONALES(SE USAN EN CADENAS TAMBIEN)
 echo -e "\n Operadores relacionales"
 echo "Numeros: A=$numA y B=$numB"
 echo "A>B =" $((numA > numB))

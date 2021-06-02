@@ -10,4 +10,5 @@ echo "Opción: $opcion y Nombre: $nombre"
 export nombre
 
 # Llamar al siguiente script para recuperar la variable
+# Ejecuta el script en el flujo de instrucciones
 ./2_variables_2.sh

@@ -1,5 +1,5 @@
 # ! bin/bash
-#Programa para ejemplificar la sentencia de iteracion for
+#Programa para ejemplificar un menú de opciones
 # Autor Jmatias
 
 opcion=0

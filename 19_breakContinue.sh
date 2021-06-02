@@ -1,5 +1,5 @@
 # ! bin/bash
-#Programa para ejemplificar la sentencia de iteracion for
+#Programa para ejemplificar la sentencia break y continue
 # Autor Jmatias
 
 echo "Sentencias break y continue"

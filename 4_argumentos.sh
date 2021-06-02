@@ -1,5 +1,6 @@
 # ! bin/bash
-#Programa para ejemplificar el paso de argumentos
+#Programa para ejemplificar el paso de argumentos al script
+#al momento de su ejecucion
 
 nombreCurso=$1
 horarioCurso=$2

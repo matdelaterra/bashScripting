@@ -1,5 +1,5 @@
 # ! bin/bash
-#Programa para ejemplificar la sentencia de iteracion for
+#Programa para ejemplificar los loops anidados
 # Autor Jmatias
 
 echo "Loops Anidados"
